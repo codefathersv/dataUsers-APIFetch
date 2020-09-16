@@ -24,6 +24,8 @@
                         </tr>
                     `;
                 })
+            
+                $datos.disabled = true;
 
             })
             .catch((err) => {
